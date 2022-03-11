@@ -1,7 +1,7 @@
 import cv2
 
 #-----Reading the image-----------------------------------------------------
-img = cv2.imread('car4.jpg', 1)
+img = cv2.imread('sample-image.jpeg', 1)
 cv2.imshow("img",img)
 
 #-----Converting image to LAB Color model-----------------------------------
